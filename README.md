@@ -1,2 +1,3 @@
 # hello-world
-I'm doing this fo rthe tutorial
+I'm doing this for the tutorial.
+My name is... shake-zoola the mic rula...
